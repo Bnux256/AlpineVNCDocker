@@ -14,4 +14,4 @@ Used for a quick linux sandbox environment. Base image is 182MB.
 
 - If you want to run container with password run: ` docker run -d -p 5901:5901 -p 6900:6900 -e VNC_PASSWORD="password" alpinevncdocker:latest `
 
-![Picture](example.png)
+![Demo](demo.png)
