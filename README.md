@@ -4,8 +4,7 @@
 Comes with a VNC server on port 5900 and noVNC (HTML5 client) on port 6900.
 Fluxbox desktop environment preinstalled.
 
-
-Used for a quick linux sandbox environment.
+Used for a quick linux sandbox environment. Base image is 182MB. 
 
 ---
 ## Instructions:
